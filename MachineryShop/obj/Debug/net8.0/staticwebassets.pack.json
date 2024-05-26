@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\lab2.js",
+      "PackagePath": "staticwebassets\\js\\lab2.js"
+    },
+    {
+      "Id": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MachineryShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MachineryShop.props",
+      "PackagePath": "build\\MachineryShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MachineryShop.props",
+      "PackagePath": "buildMultiTargeting\\MachineryShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MachineryShop.props",
+      "PackagePath": "buildTransitive\\MachineryShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

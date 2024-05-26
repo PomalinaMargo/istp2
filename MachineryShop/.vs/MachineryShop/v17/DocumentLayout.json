@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\wwwroot\\js\\lab2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:wwwroot\\js\\lab2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\model\\machineryshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:model\\machineryshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\model\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:model\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|d:\\projects\\isadntplabdemo\\src\\machineryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DBAD6C-339C-44DB-867F-A15A9106CBFE}|MachineryShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-26T13:26:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:06:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevicesController.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "Controllers\\DevicesController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:06:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachineryShopContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\MachineryShopContext.cs",
+              "RelativeDocumentMoniker": "Model\\MachineryShopContext.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\MachineryShopContext.cs",
+              "RelativeToolTip": "Model\\MachineryShopContext.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv2EAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:01:51.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowF4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:07:05.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:05:34.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2.js",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\lab2.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\lab2.js",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\lab2.js",
+              "RelativeToolTip": "wwwroot\\js\\lab2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-26T13:24:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:54:06.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Device.cs",
+              "RelativeDocumentMoniker": "Model\\Device.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Device.cs",
+              "RelativeToolTip": "Model\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:55:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:55:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-26T13:36:06.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:02:33.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-26T13:23:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T13:30:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T12:44:24.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\MachineryShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:42:00.098Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
